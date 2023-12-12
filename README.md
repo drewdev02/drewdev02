@@ -20,7 +20,7 @@ Here are some ideas to get you started: <br>
 
 <div align="center">
     <p align = "center">
-### 🚀 Coding
+🚀 Coding
     </p>
 <img align="center" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -39,7 +39,7 @@ Here are some ideas to get you started: <br>
 
    <div align="center">
     <p align = "center">
-### 🎧 Spotify Playing
+🎧 Spotify Playing
     </p>
 <img align="center" src="https://spotify-now-playing-roan-nine.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="adrewdev spotify playing" width="350" />
 </div>
