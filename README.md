@@ -9,7 +9,7 @@
 <!--![Twitter Follow](https://img.shields.io/twitter/follow/Adrewdev?color=1DA1FE&logo=Twitter&style=flat-square)-->
    <p align="center">
 Here are some ideas to get you started: <br>
-- 🔭 Future software engineer, bohemian, dreamer, responsible and irresponsible at the same time
+- 🔭Software engineer, bohemian, dreamer, responsible and irresponsible at the same time
     </p>
       <a href="http://twitter.com/Adrewdev" target="_blank">
     <img src="https://img.shields.io/twitter/follow/Adrewdev?label=Twitter&logo=twitter&style=for-the-badge&color=1DA1F2" alt="Adrewdev's Twitter"/>
