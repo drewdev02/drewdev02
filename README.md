@@ -7,10 +7,7 @@
 ---
 <div align="center">
 <!--![Twitter Follow](https://img.shields.io/twitter/follow/Adrewdev?color=1DA1FE&logo=Twitter&style=flat-square)-->
-   <p align="center">
-Here are some ideas to get you started: <br>
-- 🔭Software engineer, bohemian, dreamer, responsible and irresponsible at the same time
-    </p>
+   <p align="center">Software engineer, bohemian, dreamer, responsible and irresponsible at the same time </p>
 </div>
  
 ---
