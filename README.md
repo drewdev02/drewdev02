@@ -1,11 +1,4 @@
 <div align="center">
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Andrey+Rdz....;Nice+to+meet+you!&center=true&size=30">
-  </a>
- </div>
- 
----
-<div align="center">
 <!--![Twitter Follow](https://img.shields.io/twitter/follow/Adrewdev?color=1DA1FE&logo=Twitter&style=flat-square)-->
    <p align="center">Software engineer, bohemian, dreamer, responsible and irresponsible at the same time </p>
 </div>
