@@ -11,9 +11,6 @@
 Here are some ideas to get you started: <br>
 - 🔭Software engineer, bohemian, dreamer, responsible and irresponsible at the same time
     </p>
-      <a href="http://twitter.com/Adrewdev" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/Adrewdev?label=Twitter&logo=twitter&style=for-the-badge&color=1DA1F2" alt="Adrewdev's Twitter"/>
-  </a>
 </div>
  
 ---
